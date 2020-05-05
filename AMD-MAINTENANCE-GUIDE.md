@@ -1,17 +1,27 @@
 # Awesome-MakerDAO: Maintenance Guide
 
-Awesome-MakerDAO is a community-curated list of MakerDAO-related content and resources to which anyone can contribute. The long-term goal is developing a self-maintaining document, where anyone can get paid to add or update content and find and replace typos, with clear guidelines around how to update its resources.
+Awesome-MakerDAO is a community-curated list of MakerDAO-related content and
+resources to which anyone can contribute. The long-term goal is developing a
+self-maintaining document, where anyone can get paid to add or update content
+and find and replace typos, with clear guidelines around how to update its
+resources.
 
-This guide details the suggested logic contributors should follow to improve Awesome-MakerDAO.
+This guide details the suggested logic contributors should follow to improve
+Awesome-MakerDAO.
 
-- Follow the provided guidelines to help preserve a consistent and clean formatting style.
-- Keep Awesome-MakerDAO relevant. 
+- Follow the provided guidelines to help preserve a consistent and clean
+  formatting style.
+- Keep Awesome-MakerDAO relevant.
   - Add, delete, and/or relocate resources when appropriate.
   - Request approval before removing resources or when restructuring sections.
 
 #### Bounties and Incentives
 
-The MakerDAO Community Grants program supports members that provide useful contributions and improve Maker's document base. Inquire about bounties and incentives in [#community-development](https://chat.makerdao.com/channel/community-development) on MakerDAO's chat.
+The MakerDAO Community Grants program supports members that provide useful
+contributions and improve Maker's document base. Inquire about bounties and
+incentives in
+[#community-development](https://chat.makerdao.com/channel/community-development)
+on MakerDAO's chat.
 
 #### AMD Documents
 
@@ -21,38 +31,49 @@ The MakerDAO Community Grants program supports members that provide useful contr
 
 ### General
 
-New users should see Awesome-MakerDAO as their starting-point to learn about Maker. Members should be able to share AMD with friends and acquaintances that are looking for a crash course on Maker and its basics.
+New users should see Awesome-MakerDAO as their starting-point to learn about
+Maker. Members should be able to share AMD with friends and acquaintances that
+are looking for a crash course on Maker and its basics.
 
 - Documentation should prioritize:
-    - Informative and comprehensive resources.
-    - A clear and organized structure.
-    - Easy navigation.
-    - Visual appeal.
+  - Informative and comprehensive resources.
+  - A clear and organized structure.
+  - Easy navigation.
+  - Visual appeal.
 - Find and update:
-    - Deviations from the [Writing Style Guide](https://github.com/makerdao/community/blob/master/contributing/style-guide.md).
-    - Dead or outdated links.
-    - Improperly dated resources.
-    - Resources to credit authors.
+  - Deviations from the
+    [Writing Style Guide](https://github.com/makerdao/community/blob/master/contributing/style-guide.md).
+  - Dead or outdated links.
+  - Improperly dated resources.
+  - Resources to credit authors.
 
 ### Including and Discarding Resources
 
 - Update categories with current and relevant resources.
   - Add new resources to an appropriate section.
-  - When adding new content, consider the project's age, user base, and whether its main net has been live for at least six months.
-- Discard content that is no longer relevant, repetitive, of low quality, or does not add value.
+  - When adding new content, consider the project's age, user base, and whether
+    its main net has been live for at least six months.
+- Discard content that is no longer relevant, repetitive, of low quality, or
+  does not add value.
 - Move outdated content to the [Archive](#archived-resources).
-   - **Do not** move content that is still relevant to a section.
+  - **Do not** move content that is still relevant to a section.
   - Only move content if it is still interesting, otherwise, discard it.
-   - Some resources may already be eligible for the Archive, especially those over a year old.
+  - Some resources may already be eligible for the Archive, especially those
+    over a year old.
 
 ### Style and Formatting
 
 #### Writing Style Guide
 
-The MakerDAO Community [Writing Style Guide](https://github.com/makerdao/community/blob/master/contributing/style-guide.md) summarizes the standards and best practices writers should follow when contributing to Awesome-MakerDAO.
+The MakerDAO Community
+[Writing Style Guide](https://github.com/makerdao/community/blob/master/contributing/style-guide.md)
+summarizes the standards and best practices writers should follow when
+contributing to Awesome-MakerDAO.
 
-- Errors are sometimes overlooked. If something does not adhere to the Writing Style Guide, change it to match.
-- Before starting work on AMD, contributors are encouraged to study the Writing Style Guide as well as the other community contributor guides.
+- Errors are sometimes overlooked. If something does not adhere to the Writing
+  Style Guide, change it to match.
+- Before starting work on AMD, contributors are encouraged to study the Writing
+  Style Guide as well as the other community contributor guides.
 
 #### Citing and Organizing Content
 
@@ -60,7 +81,8 @@ The MakerDAO Community [Writing Style Guide](https://github.com/makerdao/communi
 
 - Use title case when possible.
 - Include the month and year of publication.
-  - If a date is not listed, *inspect* the web page, as it may reveal publishing information.
+  - If a date is not listed, _inspect_ the web page, as it may reveal publishing
+    information.
 - Credit authors and sources when possible.
 - Publication information should be in italics below the link.
 - Keep the formatting style within sections consistent.
@@ -69,18 +91,22 @@ The MakerDAO Community [Writing Style Guide](https://github.com/makerdao/communi
 ##### Organizing
 
 - Order educational content by relevance.
-  - A user's experience when reading through an educational section should approximate taking a course on that topic.
-  - The first resource should be considered basics, and the rest of the list should build upon each resource.
+  - A user's experience when reading through an educational section should
+    approximate taking a course on that topic.
+  - The first resource should be considered basics, and the rest of the list
+    should build upon each resource.
 - Order generic content by date.
-- Order third-party apps and services alphabetically. 
+- Order third-party apps and services alphabetically.
   - Maker does not pick favorites, and alphabetical lists are impartial.
 - When there is no order preference, sort content alphabetically.
-       
+
 ---
 
 ## Maintenance Guidelines by Section
 
-The section below lists specific formatting, styles, and resource inclusion criteria for each section. If no particular format is given, follow the general AMD style and formatting [standards](#style-and-formatting).
+The section below lists specific formatting, styles, and resource inclusion
+criteria for each section. If no particular format is given, follow the general
+AMD style and formatting [standards](#style-and-formatting).
 
 ### Official
 
@@ -107,7 +133,7 @@ The section below lists specific formatting, styles, and resource inclusion crit
 
 - List new FAQs below the legacy MCD | SCD collection.
 - Add to the legacy list only if the FAQ has a parallel SCD version.
-    - Match the MCD | SCD format.
+  - Match the MCD | SCD format.
 - Maintain the alphabetical format.
 
 ### Basics
@@ -117,29 +143,34 @@ The section below lists specific formatting, styles, and resource inclusion crit
 - Add the latest onboarding guides.
 - Make sure links are current.
 
-#### Beginner | Tutorials 
+#### Beginner | Tutorials
 
-*Note: These sections may need improvement.*
+_Note: These sections may need improvement._
 
 ##### Improve
 
 - Help newcomers learn the basics of MakerDAO.
 - Suggest alternative organizational structures to improve the current logic.
   - Look for ways to more clearly present learning materials.
-- Review new proposals in [#community-development](https://chat.makerdao.com/channel/community-development) on MakerDAO's chat.
+- Review new proposals in
+  [#community-development](https://chat.makerdao.com/channel/community-development)
+  on MakerDAO's chat.
 
 ##### Maintain
 
-  - Add new tutorials and beginner materials to an appropriate section.
-  - Follow the [maintenance standards](#citing-and-organizing-content) for including content.
+- Add new tutorials and beginner materials to an appropriate section.
+- Follow the [maintenance standards](#citing-and-organizing-content) for
+  including content.
 
 #### Stablecoins in General
 
 ##### Media
 
 - Consider ways to improve this section's logic.
-- Include sources that offer general discussions about stablecoins and their place in crypto.
-- Follow the [maintenance standards](#citing-and-organizing-content) for including content.
+- Include sources that offer general discussions about stablecoins and their
+  place in crypto.
+- Follow the [maintenance standards](#citing-and-organizing-content) for
+  including content.
 
 ##### Other Stablecoin Projects
 
@@ -156,12 +187,15 @@ The section below lists specific formatting, styles, and resource inclusion crit
 - Update this list with in-depth educational resources related to MakerDAO.
 - Group resources by difficulty level:
   - **MakerDAO 101:** Introductory level materials that a novice can understand.
-  - **MakerDAO 201:** Advanced materials that discuss topics, which require background knowledge about MakerDAO and cryptocurrency.
-- Follow the [maintenance standards](#citing-and-organizing-content) for including content.
+  - **MakerDAO 201:** Advanced materials that discuss topics, which require
+    background knowledge about MakerDAO and cryptocurrency.
+- Follow the [maintenance standards](#citing-and-organizing-content) for
+  including content.
 
 #### Maker Protocol
 
-- Keep this section current with the latest updates to [MCD Docs](https://docs.makerdao.com/).
+- Keep this section current with the latest updates to
+  [MCD Docs](https://docs.makerdao.com/).
 - Updates should be consistent with the section's existing formatting style.
 
 ### Governance and Risk
@@ -169,32 +203,38 @@ The section below lists specific formatting, styles, and resource inclusion crit
 #### Governance
 
 - The section should include educational materials on MakerDAO Governance.
-- Follow the [maintenance standards](#citing-and-organizing-content) when citing content.
+- Follow the [maintenance standards](#citing-and-organizing-content) when citing
+  content.
 - Order resources by relevance.
-  - Reading this list in order should roughly approximate a course on MakerDAO Governance.
+  - Reading this list in order should roughly approximate a course on MakerDAO
+    Governance.
 
 #### Analytics | Meetings | Discussions
 
 - **Forum:** Update to include any changes to the Governance Forum.
-    - Add new platforms if they host official governance discussions.
+  - Add new platforms if they host official governance discussions.
 - **Meetings:** Update the "Join" link if meetings migrate to a new service.
-- **Analytics:** Update this section if the Governance Analytics Dashboard expands.
+- **Analytics:** Update this section if the Governance Analytics Dashboard
+  expands.
 - Consider adding new sections as Maker grows.
 
 ### Voting Basics
 
-- Keep this section updated with the latest voter onboarding documents and tutorials.
+- Keep this section updated with the latest voter onboarding documents and
+  tutorials.
 - Make sure the latest Voting Dashboard is listed.
 
 ### Dai
 
-*Note: Suggest ideas to combine, condense, or restructure sections to help improve this section's logic.*
+_Note: Suggest ideas to combine, condense, or restructure sections to help
+improve this section's logic._
 
 #### Generate Dai
 
 - Include the latest methods for generating Dai.
 - Order content by relevance.
-    - Users reading down this list should first learn about Generating Dai, and then be able to set up a vault.
+  - Users reading down this list should first learn about Generating Dai, and
+    then be able to set up a vault.
 
 #### Earn Dai
 
@@ -202,16 +242,19 @@ The section below lists specific formatting, styles, and resource inclusion crit
 
 #### Hold Dai
 
-*Note: Suggest ideas to combine, condense, or restructure sections to help improve this section's logic.*
+_Note: Suggest ideas to combine, condense, or restructure sections to help
+improve this section's logic._
 
 - Add new wallets to an appropriate category.
 - Keep these lists alphabetical.
 
 #### Use | Spend Dai
 
-*Note: Suggest ideas to combine, condense, or restructure sections to help improve this section's logic.*
+_Note: Suggest ideas to combine, condense, or restructure sections to help
+improve this section's logic._
 
-- Choose an appropriate section to add platforms and services that incorporate Dai.
+- Choose an appropriate section to add platforms and services that incorporate
+  Dai.
 - Add a short description of the platform or service.
 - Keep these lists alphabetical.
 
@@ -230,7 +273,7 @@ The section below lists specific formatting, styles, and resource inclusion crit
 
 - Add platforms that track DAI and MKR markets.
 - Do not include CoinMarketCap.
-  -  CMC information is not considered reliable.
+  - CMC information is not considered reliable.
 
 ##### Token Swaps
 
@@ -238,7 +281,7 @@ The section below lists specific formatting, styles, and resource inclusion crit
 
 ##### Non-Custodial Exchanges
 
--  Include popular decentralized exchanges.
+- Include popular decentralized exchanges.
 
 ##### Custodial Exchanges
 
@@ -249,15 +292,16 @@ The section below lists specific formatting, styles, and resource inclusion crit
 
 - Update this list with the latest on/off ramps.
 - List active countries.
-    - Include restrictions and license listings if available.
+  - Include restrictions and license listings if available.
 
 #### Watch Dai
 
 - **Monitor Vaults:** Include tools that help users manage Vaults.
 - **Analytics | Metrics:** Include resources that track the state of DeFi.
-- **Stablecoin Comparisons:** Include resources that offer stablecoin comparisons.
-- Include a short description of the platforms and services.
-	- Match the description's formatting to other content in this section.
+- **Stablecoin Comparisons:** Include resources that offer stablecoin
+  comparisons.
+- Include a short description of the platforms and services. - Match the
+  description's formatting to other content in this section.
 - Keep these lists alphabetical.
 
 ### Milestones | Achievements
@@ -265,7 +309,8 @@ The section below lists specific formatting, styles, and resource inclusion crit
 - Include resources that mark important events in MakerDAO's history.
 - Include ratified Governance Polls for innovative proposals.
   - Avoid routine proposals, like rate adjustments.
-- Follow the [maintenance standards](#citing-and-organizing-content) for citing content.
+- Follow the [maintenance standards](#citing-and-organizing-content) for citing
+  content.
 - Group resources by year.
   - Keep the existing formatting style consistent.
 
@@ -275,34 +320,41 @@ The section below lists specific formatting, styles, and resource inclusion crit
 - Keep each section's format consistent.
   - Content should be grouped by year and media style.
   - Match the section's existing grouping format.
-- Follow the [maintenance standards](#citing-and-organizing-content) for citing content.
+- Follow the [maintenance standards](#citing-and-organizing-content) for citing
+  content.
 
 #### Interviews
 
 - Include notable interviews with MakerDAO team members.
-- Follow the [maintenance standards](#citing-and-organizing-content) for citing content.
-  - Group interviews by media format *and* by year.
+- Follow the [maintenance standards](#citing-and-organizing-content) for citing
+  content.
+  - Group interviews by media format _and_ by year.
 
 #### Podcasts | Videos
 
- - Include podcasts and videos that discuss Dai, MakerDAO, or feature MakerDAO team members.
+- Include podcasts and videos that discuss Dai, MakerDAO, or feature MakerDAO
+  team members.
 
 #### Speculation | Criticism
 
-- Add insightful resources that speculate on MakerDAO's future to *Speculation*.
-- Add insightful resources that offer counterarguments, rebuttals, and refutations of the MakerDAO project to *Criticism*.
+- Add insightful resources that speculate on MakerDAO's future to _Speculation_.
+- Add insightful resources that offer counterarguments, rebuttals, and
+  refutations of the MakerDAO project to _Criticism_.
   - Add arguments if they hold merit.
-    - Do not hold back. 
+    - Do not hold back.
     - Critical pieces may identify previously unknown issues.
     - This can help Maker address issues as they arise.
-- Follow the [maintenance standards](#citing-and-organizing-content) for citing content.
+- Follow the [maintenance standards](#citing-and-organizing-content) for citing
+  content.
   - Keep the existing formatting style consistent.
 
 #### Mentions
 
 - Add only notable Dai and MakerDAO mentions.
-  - Include mentions that are important, unusual, unexpected, or otherwise interesting.
-- Follow the [maintenance standards](#citing-and-organizing-content) for citing content.
+  - Include mentions that are important, unusual, unexpected, or otherwise
+    interesting.
+- Follow the [maintenance standards](#citing-and-organizing-content) for citing
+  content.
 - Group content by year.
   - Keep the existing formatting style consistent.
   - Preserve the grouping format when adding new years.
@@ -313,9 +365,10 @@ The section below lists specific formatting, styles, and resource inclusion crit
 - List reports under a relevant category.
   - Create a new category if an appropriate one does not exist.
   - Order by date (Newest -> Oldest).
-- Follow the [maintenance standards](#citing-and-organizing-content) for citing content.
-   - Be sure to credit the security firm. 
-   - Match formatting to other existing links in this section.
+- Follow the [maintenance standards](#citing-and-organizing-content) for citing
+  content.
+  - Be sure to credit the security firm.
+  - Match formatting to other existing links in this section.
 
 ### Developer Resources
 
@@ -324,15 +377,17 @@ The section below lists specific formatting, styles, and resource inclusion crit
 
 ### Translated Resources
 
-*Note: Maker's current AMD collection of foreign and translated resources is sparse. Add resources to expand it.* 
+_Note: Maker's current AMD collection of foreign and translated resources is
+sparse. Add resources to expand it._
 
-- Add miscellaneous translated resources and foreign content. 
+- Add miscellaneous translated resources and foreign content.
   - Add resources to a relevant category.
   - If an appropriate category does not exist, create one for it.
-- As this collection expands, it may make sense to list dedicated translations under each category above. 
+- As this collection expands, it may make sense to list dedicated translations
+  under each category above.
 
 ### Archived Resources
 
-- Move outdated, but interesting, resources to the  Archive.
+- Move outdated, but interesting, resources to the Archive.
   - Retain the original formatting and category header if appropriate.
--  Delete content that is no longer relevant.
+- Delete content that is no longer relevant.
